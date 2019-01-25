@@ -13,7 +13,7 @@ Die erste Tutorial-Reihe motiviert das sogenannte Perzeptron: from scratch wird 
 
 #### [Das Perzeptron - Teil 1](/notebooks/Tutorial_Das-Perzeptron.ipynb)
 
-<img src="/notebooks/images/perzeptron-einfaches-modell-1.png" style="width: 20%; float: right;"/>
+<img src="/notebooks/images/perzeptron-einfaches-modell-1.png" style="width: 20%; float: right;" width="200"/>
 
 *Neuronales Netz selbst entwickeln mit Python*
 
@@ -23,7 +23,7 @@ Stichwörter: Delta-Regel, Heaviside-Aktivierung, Skalarprodukt
 
 #### [Das Perzeptron - Teil 2](/notebooks/Tutorial_Das-Perzeptron-Teil-2.ipynb)
 
-<img src="/notebooks/images/perzeptron-2-sonardisplay.png" style="width: 20%; float: right;"/>
+<img src="/notebooks/images/perzeptron-2-sonardisplay.png" style="width: 20%; float: right;" width="200"/>
 
 *Mit Python und Numpy das Perzeptron verstehen*
 
@@ -33,7 +33,7 @@ Stichwörter: Overfitting, Überanpassung, Generalisierung
 
 #### [Das Perzeptron - Teil 3](/notebooks/Tutorial_Das-Perzeptron-Teil-3.ipynb)
 
-<img src="/notebooks/images/perzeptron-3-parabel-steigung.png" style="width: 20%; float: right;"/>
+<img src="/notebooks/images/perzeptron-3-parabel-steigung.png" style="width: 20%; float: right;" width="200"/>
 
 *Gradientenabstieg und Herleitung der Delta-Regel - die Mathematik hinter den Neuronalen Netzen*
 
@@ -43,7 +43,7 @@ Stichwörter: Gradientenabstieg (engl. gradient descent), Verlustfunktionen (eng
 
 #### [Das Perzeptron - Teil 4](/notebooks/Tutorial_Das-Perzeptron-Teil-4.ipynb)
 
-<img src="/notebooks/images/perzeptron-b-sorcerer.png" style="width: 20%; float: right;"/>
+<img src="/notebooks/images/perzeptron-b-sorcerer.png" style="width: 20%; float: right;" width="200"/>
 
 *Der Lego-Baukasten des Maschinellen Lernens - heute mit sigmoidaler Aktivierungsfunktion*
 
