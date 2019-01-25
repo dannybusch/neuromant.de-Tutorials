@@ -3,9 +3,11 @@
 
 ## Schritt für Schritt zum Mathemagier mit neuromant und Python
 
-Hier finden sich interaktive Tutorials, die in losen Abständen auf dem Blog [neuromant.de](https://neuromant.de) veröffentlicht werden. Dort findet sich auch das [Impressum](https://neuromant.de/about) für dieses Github-Repository.
+Hier finden sich interaktive Tutorials, die in losen Abständen auf dem Blog [neuromant.de](https://neuromant.de) veröffentlicht werden. 
 
-Alle Tutorials finden sich zum besseren Lesen online unter [https://neuromant.de/tutorials](https://neuromant.de/tutorials) - zum direkten Ausprobieren zu Hause sind allerdings die Jupyter Notebooks deutlich besser geeignet ;-)
+Dort findet sich auch das [Impressum](https://neuromant.de/about) für dieses Github-Repository.
+
+Alle Tutorials gibt es zum besseren Lesen online unter [https://neuromant.de/tutorials](https://neuromant.de/tutorials) - zum Ausprobieren zu Hause sind die Jupyter Notebooks deutlich besser geeignet ;-)
 
 ## Systemvoraussetzungen
 
