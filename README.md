@@ -3,11 +3,13 @@
 
 Hier finden sich einige Tutorials, die in losen Abständen auf meinem Blog [neuromant.de](https://neuromant.de) veröffentlicht werden. Dort findet sich auch das [Impressum](https://neuromant.de/about) für dieses Github-Repository.
 
+Alle Tutorials finden sich zum besseren Lesen online unter [https://neuromant.de/tutorials](https://neuromant.de/tutorials) - zum direkten Ausprobieren zu Hause sind allerdings die interaktiven Jupyter Notebooks deutlich besser geeignet ;-)
+
 ## Systemvoraussetzungen
 
 Für die Tutorials wird eine Installation von Python 3.x mit Jupyter Notebook vorausgesetzt. Für Einsteiger ist die Distribution von [Anaconda Python](https://www.anaconda.com/) empfohlen, diese gibt es für Linux, Windows und Macintosh.
 
-## Tutorial-Reihe 1: Das Perzeptron - neuronale Netze für Einsteiger und Fortgeschrittene
+## Tutorial-Reihe 1: Das Perzeptron - Neuronale Netze für Einsteiger und Fortgeschrittene
 
 Die erste Tutorial-Reihe motiviert das sogenannte Perzeptron: from scratch wird hier mit Python-Code nach und nach das vollständige mehrschichtige Perzeptron (engl. multilayer perceptron, MLP) motiviert und implementiert. Notwendige Mathematik wird in einfacher Sprache erklärt und vertieft, so dass alle Formeln sowohl gelesen als auch verstanden werden können.
 
