@@ -1,7 +1,7 @@
 
 # Tutorials über Maschinelles Lernen, Künstliche Intelligenz und Data Science
 
-## Schritt für Schritt zum Mathematgier mit neuromant und Python
+## Schritt für Schritt zum Mathemagier mit neuromant und Python
 
 Hier finden sich interaktive Tutorials, die in losen Abständen auf meinem Blog [neuromant.de](https://neuromant.de) veröffentlicht werden. Dort findet sich auch das [Impressum](https://neuromant.de/about) für dieses Github-Repository.
 
