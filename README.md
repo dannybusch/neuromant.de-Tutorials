@@ -19,7 +19,7 @@ Für Einsteiger ist die Distribution von [Anaconda Python](https://www.anaconda.
 
 Die erste Tutorial-Reihe motiviert das sogenannte Perzeptron: from scratch wird hier mit Python-Code nach und nach das vollständige mehrschichtige Perzeptron (engl. multilayer perceptron, MLP) motiviert und implementiert. Notwendige Mathematik wird in einfacher Sprache erklärt und vertieft, so dass alle Formeln sowohl gelesen als auch kapiert werden können.
 
-#### [Das Perzeptron - Teil 1](/notebooks/Tutorial_Das-Perzeptron.ipynb)
+#### [Das Perzeptron - Teil 1](/notebooks/Tutorial_Das-Perzeptron-Teil-1.ipynb)
 
 <img src="/notebooks/images/perzeptron-einfaches-modell-1.png" width="200" align="right"/>
 
